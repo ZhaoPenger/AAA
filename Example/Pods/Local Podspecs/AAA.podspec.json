@@ -1,9 +1,9 @@
 {
   "name": "AAA",
   "version": "0.1.0",
-  "summary": "A short description of AAA.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhaopeng/AAA",
+  "summary": "A short description of AAAaa.",
+  "description": "TODO: Add long description of the pod here.aaaaaa",
+  "homepage": "https://github.com/ZhaoPenger",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "zhaopeng": "mrzhao90@126.com"
   },
   "source": {
-    "git": "https://github.com/zhaopeng/AAA.git",
+    "git": "https://github.com/ZhaoPenger/AAA.git",
     "tag": "0.1.0"
   },
   "platforms": {

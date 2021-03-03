@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'AAA'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of AAA.'
+  s.summary          = 'A short description of AAAaa.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                     TODO: Add long description of the pod here.aaaaaa
                        DESC
 
-  s.homepage         = 'https://github.com/zhaopeng/AAA'
+  s.homepage         = 'https://github.com/ZhaoPenger'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhaopeng' => 'mrzhao90@126.com' }
-  s.source           = { :git => 'https://github.com/zhaopeng/AAA.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ZhaoPenger/AAA.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
