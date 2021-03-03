@@ -1,0 +1,6 @@
+framework module AAAv {
+  umbrella header "AAAv-umbrella.h"
+
+  export *
+  module * { export * }
+}

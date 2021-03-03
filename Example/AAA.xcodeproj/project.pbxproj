@@ -347,11 +347,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-AAA_Example/Pods-AAA_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/AAA/AAA.framework",
+				"${BUILT_PRODUCTS_DIR}/AAAv/AAAv.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AAA.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AAAv.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

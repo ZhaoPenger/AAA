@@ -1,5 +1,5 @@
 PODS:
-  - AAA (0.1.0)
+  - AAAv (0.3.0)
   - FBSnapshotTestCase (2.1.4):
     - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
   - FBSnapshotTestCase/Core (2.1.4)
@@ -7,7 +7,7 @@ PODS:
     - FBSnapshotTestCase/Core
 
 DEPENDENCIES:
-  - AAA (from `../`)
+  - AAAv (from `../AAAv.podspec`)
   - FBSnapshotTestCase
 
 SPEC REPOS:
@@ -15,13 +15,13 @@ SPEC REPOS:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
-  AAA:
-    :path: "../"
+  AAAv:
+    :podspec: "../AAAv.podspec"
 
 SPEC CHECKSUMS:
-  AAA: 77db9ca1f72c0f75e2fceaa2aa94a79bfd77c607
+  AAAv: a517c234e918f117e0e7c8fc0d5389a8e86f38b1
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
-PODFILE CHECKSUM: e9a1f15f427490f4bd4ed5a058c4e2fc4519d778
+PODFILE CHECKSUM: 19ecab08d3c5bf95b1c79e9e630a9121a3e8a3d3
 
 COCOAPODS: 1.7.0

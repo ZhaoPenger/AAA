@@ -12,6 +12,6 @@
 
 #import "NSObject+SafeSwizzle.h"
 
-FOUNDATION_EXPORT double AAAVersionNumber;
-FOUNDATION_EXPORT const unsigned char AAAVersionString[];
+FOUNDATION_EXPORT double AAAvVersionNumber;
+FOUNDATION_EXPORT const unsigned char AAAvVersionString[];
 
